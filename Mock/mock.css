@@ -1,0 +1,34 @@
+h3{
+    text-align: center;
+}
+h1{
+font-size: 50px;
+text-align: center;
+
+}
+#pani_puri{
+
+    height: 400px;
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+#burger{
+    height: 400px;
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+
+}
+#pizza{
+    height:400px;
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+pre{
+    text-align: center;
+}
